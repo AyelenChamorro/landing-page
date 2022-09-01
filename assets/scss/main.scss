@@ -1,0 +1,1035 @@
+body {
+  .bg-hero {
+    
+    .header {
+      label {
+        font-family: "Inter", sans-serif;
+        font-weight: 600;
+        font-size: 14px;
+        margin-left: 24px;
+        a {
+          text-decoration: none;
+          color: rgba(17, 24, 39, 1);
+        }
+      }
+      .features {
+        margin-left: 40px;
+      }
+      .googe-play {
+        height: 40px;
+        width: 135px;
+      }
+      .googe-app {
+        height: 40px;
+        width: 135px;
+      }
+    }
+    .seccion-1 {
+      margin-left: 50px;
+      .titulo {
+        font-family: "Inter", sans-serif;
+        font-weight: 700;
+        margin-top: 180px;
+        font-size: 60px;
+      }
+      .parrafo {
+        margin-top: 16px;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        color: #374151;
+      }
+      .seccion-botones {
+        display: flex;
+        .boton {
+          font-family: "Inter", sans-serif;
+          font-weight: 600;
+          position: static;
+          width: 138px;
+          height: 56px;
+          border-radius: 8px;
+          background-color: #7c3aed;
+          color: white;
+          margin-top: 20px;
+        }
+        .watch-video {
+          margin-top: 33px;
+          .icono-video {
+            color: #7c3aed;
+            text-decoration: none;
+            font-family: "Inter", sans-serif;
+            font-weight: 600;
+            margin-left: 30px;
+          }
+        }
+      }
+
+      .movile {
+        margin-top: 92px;
+        width: 350px;
+        height: 640px;
+      }
+    }
+  }
+  .items {
+    border-top: 1px solid rgb(211, 216, 226);
+    border-bottom: 1px solid rgb(211, 216, 226);
+
+    height: 110px;
+    .item-1 {
+      margin-left: 150px;
+    }
+    .item-6 {
+      margin-right: 150px;
+    }
+  }
+  .seccion-2 {
+    margin-top: 100px;
+    text-align: center;
+    .titulo-2 {
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      font-size: 48px;
+    }
+    .parrafo-2 {
+      margin-top: 8px;
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      font-size: 18px;
+      color: rgba(17, 24, 39, 1);
+    }
+  }
+  .contenedor-2 {
+    .div-1 {
+      margin-top: 65px;
+      display: flex;
+      text-align: center;
+      h2 {
+        margin-top: 24px;
+
+        font-family: "Inter", sans-serif;
+        font-weight: 700;
+        color: black;
+      }
+      p {
+        margin-top: 8px;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        color: #374151;
+      }
+    }
+    .div-2 {
+      margin-top: 65px;
+      display: flex;
+      text-align: center;
+      h2 {
+        margin-top: 24px;
+        font-family: "Inter", sans-serif;
+        font-weight: 700;
+        color: black;
+      }
+      p {
+        margin-top: 8px;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        color: #374151;
+      }
+    }
+  }
+  .seccion-3 {
+    width: 100%;
+    height: 850px;
+    margin-top: 30px;
+
+    background-color: rgba(213, 250, 252, 1);
+    .img-comilla {
+      position: absolute;
+      margin-left: 110px;
+      margin-top: 100px;
+      opacity: 0.3;
+    }
+    .titulo-3 {
+      width: 514px;
+      position: absolute;
+      color: black;
+      margin-left: 216px;
+      font-family: "Inter", sans-serif;
+      font-weight: 700;
+      margin-top: 162px;
+      font-size: 48px;
+    }
+    .parrafo-3 {
+      color: black;
+      margin-left: 219px;
+      margin-top: 290px;
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+    }
+    .hubspot {
+      border-radius: 8px;
+      margin-top: 64px;
+      margin-left: 320px;
+      width: 384px;
+      height: 396px;
+      background-color: white;
+      .logo-hubspot {
+        height: 30px;
+        width: 112px;
+        margin-left: 64px;
+        margin-top: 32px;
+      }
+      .comillas-chicas {
+        position: absolute;
+        margin-left: -111px;
+        margin-top: 90px;
+      }
+      .parrafo-hubspot {
+        margin-left: 93px;
+        margin-top: 24px;
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+      }
+
+      .autor {
+        font-family: "Inter";
+        font-size: 18px;
+        margin-left: 93px;
+        font-weight: 700;
+        line-height: 28px;
+      }
+      .gopro {
+        margin-top: 0;
+        font-family: "Inter";
+        font-size: 14px;
+        margin-left: 93px;
+        font-weight: 400;
+        line-height: 20px;
+      }
+    }
+    .airbnb {
+      border-radius: 8px;
+      width: 488px;
+      height: 312px;
+      background-color: white;
+      margin-top: 220px;
+      margin-left: 36px;
+      .logo-airbnb {
+        height: 30px;
+        width: 112px;
+        margin-top: 35px;
+        margin-left: 35px;
+      }
+      .comillas-chicas-2 {
+        position: absolute;
+        margin-top: 90px;
+        margin-left: -103px;
+      }
+      .parrafo-airbnb {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        margin-top: 19px;
+
+        margin-left: 83px;
+      }
+      .autor-2 {
+        font-family: "Inter";
+        font-weight: 700;
+        font-size: 18px;
+        margin-left: 83px;
+      }
+      .ceo {
+        margin-left: 83px;
+        margin-top: 0;
+        font-family: "Inter";
+        font-size: 14px;
+
+        font-weight: 400;
+        line-height: 20px;
+      }
+    }
+    .strapi {
+      border-radius: 8px;
+      width: 380px;
+      height: 250px;
+      background-color: white;
+      margin-left: 36px;
+      margin-top: 30px;
+      .logo-strapi {
+        height: 30px;
+        width: 112px;
+        margin-top: 35px;
+        margin-left: 35px;
+      }
+      .comillas-chicas-3 {
+        position: absolute;
+        margin-top: 94px;
+        margin-left: -104px;
+      }
+      .parrafo-strapi {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+        margin-left: 83px;
+        margin-top: 26px;
+      }
+      .autor-3 {
+        font-family: "Inter";
+        font-weight: 700;
+        font-size: 18px;
+        margin-left: 83px;
+      }
+      .founder {
+        margin-top: 0;
+        font-family: "Inter";
+        font-size: 14px;
+        margin-left: 83px;
+        font-weight: 400;
+        line-height: 20px;
+      }
+    }
+  }
+  .section-4 {
+    width: 100%;
+    height: 500px;
+    .titulo-seccion-4 {
+      font-family: "Inter";
+      font-weight: 700;
+      font-size: 48px;
+
+      margin-top: 110px;
+    }
+    .subtitulo-seccin-4 {
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+    }
+    .icono-1-seccion-4 {
+      margin-top: 95px;
+    }
+    .downloads {
+      font-family: "Inter";
+      font-weight: 700;
+      margin-top: -40px;
+      margin-left: 50px;
+    }
+    .downloads-p {
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      margin-left: 50px;
+      margin-top: -10px;
+    }
+    .icono-2-seccion-4 {
+      margin-top: 95px;
+    }
+    .users {
+      font-family: "Inter";
+      font-weight: 700;
+      margin-top: -40px;
+      margin-left: 50px;
+    }
+    .users-p {
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      margin-top: -10px;
+      margin-left: 50px;
+    }
+    .icono-3-seccion-4 {
+      margin-top: 40px;
+    }
+    .clients {
+      font-family: "Inter";
+      font-weight: 700;
+      margin-left: 50px;
+      margin-top: -40px;
+    }
+    .clients-p {
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      margin-left: 50px;
+      margin-top: -10px;
+    }
+    .icono-4-seccion-4 {
+      margin-top: 40px;
+    }
+    .countries {
+      font-family: "Inter";
+      font-weight: 700;
+      margin-left: 50px;
+      margin-top: -40px;
+    }
+    .countries-p {
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      margin-left: 50px;
+      margin-top: -10px;
+    }
+  }
+  .border-5 {
+    border-top: 0.5px solid rgba(243, 244, 246, 1);
+
+    margin-bottom: 200px;
+    .seccion-5 {
+      .titulo-5 {
+        font-family: "Inter";
+        font-weight: 700;
+        font-size: 48px;
+        margin-top: 80px;
+      }
+      .parrafo-5 {
+        font-family: "Inter", sans-serif;
+        font-weight: 400;
+      }
+      .back-circulo {
+        background-image: url("../../dist/img/background-circular.png");
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .logos-5 {
+        margin-top: 10px;
+        margin-left: 10px;
+      }
+    }
+  }
+  .seccion-6 {
+    width: 100%;
+    background-color: rgba(29, 181, 190, 1);
+    height: 558px;
+    .titulo-6 {
+      font-family: "Inter";
+      font-weight: 700;
+      font-size: 48px;
+      margin-top: 150px;
+      margin-left: 60px;
+    }
+    .subtitulo-6 {
+      margin-left: 60px;
+      font-size: 18px;
+      margin-top: 48px;
+    }
+    .parrafo-6 {
+      margin-left: 60px;
+      font-size: 18px;
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+    }
+    .playstore {
+      position: relative;
+      margin-left: 60px;
+      margin-top: 8px;
+    }
+    .storeapp {
+      margin-left: 8px;
+      margin-top: 8px;
+    }
+    .img-celular-1 {
+      margin-left: 11px;
+    }
+    .img-celular-2 {
+      margin-top: 163px;
+      margin-left: -88px;
+    }
+  }
+  .footer {
+    width: 100%;
+    background-color: black;
+    height: 288px;
+    .logo-footer {
+      margin-top: 64px;
+      margin-left: 170px;
+    }
+    .text-footer {
+      margin-top: 24px;
+      color: white;
+      margin-left: 170px;
+      font-family: "Inter", sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      word-spacing: 21px;
+    }
+    .landify {
+      margin-top: 24px;
+      color: white;
+      font-size: 14px;
+      font-family: "inter";
+      font-weight: 400;
+      margin-left: 170px;
+    }
+    .get {
+      color: white;
+      margin-left: 456px;
+      margin-top: 65px;
+    }
+    .logo-playstore {
+      border: 1px solid white;
+      border-radius: 5px;
+      margin-left: 453px;
+      margin-top: 10px;
+    }
+    .logo-store-app {
+      border: 1px solid white;
+      border-radius: 5px;
+      margin-top: 10px;
+      margin-left: 453px;
+    }
+  }
+}
+
+//  Mobile //
+
+@media (max-width: 1024px) {
+  .header {
+    .logo {
+      label {
+        display: none;
+      }
+    }
+  }
+}
+@media (max-width: 575px) {
+  .header {
+    .container-logo {
+      display: none;
+    }
+  }
+  body {
+    .bg-hero {
+      background-image: url("../../dist/img/Background-mobile-seccion-1.png");
+      height: 100%;
+      .header {
+        .seccion-1 {
+          margin-left: 10px;
+          .titulo {
+            margin-top: 60px;
+            font-size: 36px;
+          }
+        }
+      }
+    }
+    .items {
+      border: none;
+      height: 228px;
+      .item-1 {
+        margin-left: 0;
+      }
+      .item-6 {
+        margin-right: 0;
+      }
+      .items-mobile {
+        border-top: 1px solid #d3d8e2;
+        border-bottom: 1px solid #d3d8e2;
+      }
+    }
+    .seccion-2 {
+      margin-top: 10px;
+      .titulo-2 {
+        font-size: 36px;
+        margin-left: 10px;
+      }
+      .parrafo-2 {
+        font-size: 18px;
+        margin: 9px;
+      }
+    }
+    .contenedor-2 {
+      .div-1,
+      .div-2 {
+        margin-top: 0;
+      }
+      .icono-seccion-2 {
+        margin-top: 48px;
+      }
+    }
+    .seccion-3 {
+      height: 1396px;
+      .img-comilla {
+        height: 78px;
+        width: 96px;
+        margin-left: 10px;
+        margin-top: 48px;
+      }
+      .titulo-3 {
+        font-size: 30px;
+        margin-top: 88px;
+        margin-left: 23px;
+        width: 335px;
+      }
+      .parrafo-3 {
+        margin-left: 23px;
+
+        margin-top: 165px;
+      }
+      .hubspot {
+        height: 424px;
+        width: 335px;
+        margin: 20px;
+        .logo-hubspot {
+          margin-left: 30px;
+        }
+
+        .parrafo-hubspot {
+          margin-left: 58px;
+          margin-top: 32px;
+        }
+        .autor {
+          margin-left: 58px;
+        }
+        .gopro {
+          margin-left: 58px;
+        }
+      }
+      .airbnb {
+        height: 368px;
+        width: 335px;
+        margin: 20px;
+        margin-top: 0;
+        .logo-airbnb {
+          margin-left: 30px;
+        }
+        .parrafo-airbnb {
+          margin-left: 63px;
+          margin-top: 32px;
+        }
+        .autor-2 {
+          margin-left: 63px;
+        }
+        .ceo {
+          margin-left: 63px;
+        }
+      }
+      .strapi {
+        height: 284px;
+        width: 335px;
+        margin: 20px;
+        .logo-strapi {
+          margin-left: 30px;
+        }
+        .parrafo-strapi {
+          margin-left: 63px;
+          margin-top: 32px;
+        }
+        .autor-3 {
+          margin-left: 63px;
+        }
+        .founder {
+          margin-left: 63px;
+        }
+      }
+    }
+    .section-4 {
+      height: 560px;
+      width: 375px;
+      .titulo-seccion-4 {
+        font-size: 30px;
+        padding: 20px;
+        padding-bottom: 0;
+        margin-top: 48px;
+      }
+      .subtitulo-seccin-4 {
+        padding: 20px;
+
+        padding-top: 0;
+      }
+      .icono-1-seccion-4 {
+        margin-left: 23px;
+        margin-top: 25px;
+      }
+      .downloads {
+        font-size: 24px;
+        margin-left: 80px;
+      }
+      .downloads-p {
+        font-size: 14px;
+        margin-left: 80px;
+      }
+      .icono-3-seccion-4 {
+        margin-left: 23px;
+        margin-top: 24px;
+      }
+      .clients {
+        margin-left: 80px;
+        font-size: 24px;
+      }
+      .clients-p {
+        margin-left: 80px;
+        font-size: 14px;
+      }
+      .icono-2-seccion-4 {
+        margin-top: 24px;
+        margin-left: 23px;
+      }
+      .users {
+        margin-left: 80px;
+        font-size: 24px;
+      }
+      .users-p {
+        margin-left: 80px;
+        font-size: 14px;
+      }
+      .icono-4-seccion-4 {
+        margin-top: 24px;
+        margin-left: 23px;
+      }
+      .countries {
+        margin-left: 80px;
+        font-size: 24px;
+      }
+      .countries-p {
+        margin-left: 80px;
+        font-size: 14px;
+      }
+    }
+    .border-5 {
+      margin-bottom: 100px;
+      .seccion-5 {
+        .back-circulo {
+          display: none;
+        }
+        .back-circulo-mobile {
+          background-image: url("../../dist/img/circulo-mobile.png");
+          background-repeat: no-repeat;
+          background-position: center;
+          height: 181px;
+          .logos-5 {
+            margin-left: 17px;
+          }
+        }
+
+        .titulo-5 {
+          font-size: 30px;
+          padding: 20px 20px 0;
+          margin-top: 48px;
+        }
+        .parrafo-5 {
+          padding: 20px 20px 0;
+          padding-top: 0;
+          br {
+            display: none;
+          }
+        }
+      }
+    }
+    .seccion-6 {
+      height: 1244px;
+      .titulo-6 {
+        margin-top: 48px;
+        font-size: 30px;
+        br {
+          display: none;
+        }
+        margin-left: 37px;
+      }
+      .parrafo-6 {
+        br {
+          display: none;
+        }
+        margin-left: 37px;
+        margin-top: 8px;
+      }
+      .subtitulo-6 {
+        margin-left: 37px;
+      }
+      .playstore {
+        margin-left: 37px;
+      }
+      .img-celular-1 {
+        margin-top: 32px;
+        margin-left: 24px;
+      }
+      .img-celular-2 {
+        margin-top: -20px;
+        margin-left: 24px;
+      }
+    }
+    .footer {
+      height: 480px;
+      .logo-footer {
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-bottom: 24px;
+      }
+      .text-footer {
+        margin-left: 20px;
+        font-size: 16px;
+        margin-top: -8px;
+
+        line-height: 40px;
+      }
+      .landify {
+        margin-top: 24px;
+        margin-left: 20px;
+      }
+      .get {
+        margin-top: 32px;
+        margin-left: 20px;
+        font-size: 18px;
+      }
+      .logo-playstore {
+        margin-left: 20px;
+      }
+      .logo-store-app {
+        margin-left: 20px;
+      }
+    }
+  }
+}
+@media (min-width: 768px) {
+  body {
+    .bg-hero {
+      background-image: url("../../dist/img/Background-ipad.png");
+      width: 100%;
+      height: 1160px;
+      .header {
+        label {
+          display: none;
+        }
+        .seccion-1 {
+          .titulo {
+            font-size: 48px;
+            margin-top: 80px;
+            margin-left: -54px;
+            br {
+              display: none;
+            }
+          }
+          .parrafo {
+            margin-left: -54px;
+          }
+          .seccion-botones {
+            margin-left: -54px;
+          }
+          .movile {
+            margin-left: -70px;
+          }
+        }
+      }
+    }
+    .items {
+      display: none;
+    }
+    .seccion-2 {
+      .titulo-2 {
+        font-size: 36px;
+        margin-top: 80px;
+      }
+      .parrafo-2 {
+        text-align: center;
+        margin: 8px 40px 0px 40px;
+        br {
+          display: none;
+        }
+      }
+    }
+    .seccion-3 {
+      height: 1165px;
+      .img-comilla {
+        margin-left: 20px;
+        margin-top: 60px;
+      }
+      .titulo-3 {
+        font-size: 36px;
+        margin-left: 40px;
+        margin-top: 132px;
+        width: 592px;
+      }
+      .parrafo-3 {
+        margin-left: 40px;
+        margin-top: 179px;
+      }
+      .hubspot {
+        width: 726px;
+        height: 284px;
+        margin-top: 40px;
+        margin-left: 20px;
+        .logo-hubspot {
+          margin-left: 30px;
+        }
+        .parrafo-hubspot {
+          margin-left: 59px;
+          margin-top: 40px;
+          margin-right: 30px;
+          br {
+            display: none;
+          }
+        }
+        .autor {
+          margin-left: 59px;
+        }
+        .gopro {
+          margin-left: 59px;
+        }
+      }
+      .airbnb {
+        width: 726px;
+        height: 284px;
+        margin-top: 24px;
+        margin-left: 20px;
+        .logo-airbnb {
+          margin-left: 30px;
+        }
+        .parrafo-airbnb {
+          margin-left: 59px;
+          margin-top: 40px;
+          margin-right: 30px;
+          br {
+            display: none;
+          }
+        }
+        .autor-2 {
+          margin-left: 59px;
+        }
+        .ceo {
+          margin-left: 59px;
+        }
+      }
+      .strapi {
+        width: 726px;
+        height: 228px;
+        margin-left: 20px;
+        margin-top: 24px;
+        .logo-strapi {
+          margin-left: 30px;
+        }
+        .parrafo-strapi {
+          margin-left: 59px;
+          margin-top: 40px;
+          margin-right: 30px;
+          br {
+            display: none;
+          }
+        }
+        .autor-3 {
+          margin-left: 59px;
+        }
+        .founder {
+          margin-left: 59px;
+        }
+      }
+    }
+    .section-4 {
+      height: 550px;
+      .titulo-seccion-4 {
+        br {
+          display: none;
+        }
+        font-size: 36px;
+        margin-left: 40px;
+        margin-top: 80px;
+      }
+      .subtitulo-seccin-4 {
+        margin-left: 40px;
+        margin-top: 8px;
+      }
+      .icono-1-seccion-4 {
+        margin-left: 40px;
+      }
+      .downloads {
+        margin-left: 85px;
+      }
+      .downloads-p {
+        margin-left: 85px;
+      }
+      .icono-3-seccion-4 {
+        margin-left: 40px;
+      }
+      .clients {
+        margin-left: 85px;
+      }
+      .clients-p {
+        margin-left: 85px;
+      }
+    }
+    .border-5 {
+      .seccion-5 {
+        margin-top: -33px;
+        .titulo-5 {
+          font-size: 36px;
+          margin-top: 72px;
+          br {
+            display: none;
+          }
+        }
+        .parrafo-5 {
+          br {
+            display: none;
+          }
+        }
+        .back-circulo {
+          display: none;
+        }
+        .back-circulo-mobile {
+          background-image: url("../../dist/img/circulo-mobile.png");
+          background-repeat: no-repeat;
+          background-position: center;
+          .logos-5 {
+            margin-top: 36px;
+          }
+        }
+      }
+    }
+    .seccion-6 {
+      height: 919px;
+      .titulo-6 {
+        br {
+          display: none;
+        }
+        font-size: 36px;
+        margin-left: 40px;
+      }
+      .parrafo-6 {
+        br {
+          display: none;
+        }
+        margin-left: 40px;
+      }
+      .subtitulo-6 {
+        margin-left: 40px;
+      }
+      .playstore {
+        margin-left: 40px;
+      }
+      .img-celular-1 {
+        margin-left: 56px;
+        margin-top: 45px;
+      }
+      .img-celular-2 {
+        margin-left: 22px;
+
+        margin-top: 142px;
+      }
+    }
+    .footer{
+      height: 288px;
+      .logo-footer{
+        margin-left: 40px;
+        margin-top: 60px;
+      }
+      .text-footer{
+        margin-left: 40px;
+      }
+      .landify{
+        margin-left: 40px;
+      }
+      .get{
+        margin-left: 8px;
+        margin-top: 60px;
+      }
+      .logo-playstore{
+        margin-left: 8px;
+      }
+      .logo-store-app{
+        margin-left: 8px;
+      }
+    }
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    .bg-hero {
+      height: 866px;
+      width: 100%;
+
+      background-image: url("../../dist/img/Background-1.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  }
+}
